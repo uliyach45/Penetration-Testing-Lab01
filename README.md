@@ -2,27 +2,22 @@
 Air University - Penetration Testing Lab 01
 # 🛡️ Penetration Testing Lab 01 — Setting Up Your Virtual Lab
 
-**Air University Islamabad | Department of Cyber Security**  
-**Lab Engineer:** Bilal Saleem  
-**Course:** Penetration Testing Lab  
-
----
 
 ## 📋 Lab Overview
 
-This repository contains the complete documentation, screenshots, and report for **Lab 01: Setting Up Your Virtual Lab** — the foundational lab for the Penetration Testing course at Air University Islamabad.
+This repository contains the complete documentation, screenshots, and report for **Lab 01: Setting Up Your Virtual Lab** — the foundational lab for the Penetration Testing course.
 
 ---
 
 ## ✅ Tasks Completed
 
-| Task | Description | Marks | Status |
-|------|-------------|-------|--------|
-| Task 1 | Install VMware & Setup Kali Linux VM | 15 | ✔ Completed |
-| Task 2 | Configure Network (Bridged Mode) & Test Connectivity | 10 | ✔ Completed |
-| Task 3 | Install & Configure Nessus Vulnerability Scanner | 15 | ✔ Completed |
-| Task 4 | Create Windows XP SP3 Target VM | 15 | ✔ Completed |
-| Task 7 | Configure Static IP & Test VM-to-VM Connectivity | 10 | ✔ Completed |
+| Task | Description | Status |
+|------|-------------|--------|
+| Task 1 | Install VMware & Setup Kali Linux VM | ✔ Completed |
+| Task 2 | Configure Network (Bridged Mode) & Test Connectivity | ✔ Completed |
+| Task 3 | Install & Configure Nessus Vulnerability Scanner | ✔ Completed |
+| Task 4 | Create Windows XP SP3 Target VM | ✔ Completed |
+| Task 7 | Configure Static IP & Test VM-to-VM Connectivity | ✔ Completed |
 
 ---
 
@@ -90,8 +85,4 @@ Full lab report with all screenshots and explanations:
 
 ## ⚠️ Disclaimer
 
-> This lab is conducted in a **controlled virtual environment** for **educational purposes only** as part of the Air University Cyber Security curriculum. All activities are performed on isolated VMs with no impact on real systems.
-
----
-
-*Air University Islamabad — Department of Cyber Security*
+> This lab is conducted in a **controlled virtual environment** for **educational purposes only**. All activities are performed on isolated VMs with no impact on real systems.
